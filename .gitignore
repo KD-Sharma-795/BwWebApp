@@ -1,0 +1,114 @@
+
+
+# OS Files
+
+
+.DS_Store
+Thumbs.db
+
+
+# Python
+
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints
+
+
+# Environment variables
+
+
+.env
+.env.*
+
+
+# Logs
+
+
+*.log
+logs/
+
+
+# Node / Frontend
+
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders
+
+build/
+dist/
+.next/
+out/
+
+
+# IDE / Editors
+
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# Testing
+
+
+coverage/
+htmlcov/
+.pytest_cache/
+
+
+# Database
+
+
+*.db
+*.sqlite3
+
+
+# Temporary files
+
+
+tmp/
+temp/
+*.tmp
+
+
+# Model Files (Optional)
+
+
+models/
+*.h5
+*.pt
+*.ckpt
+*.joblib
+
+
+# Data Files (Optional)
+
+
+data/raw/
+data/processed/
